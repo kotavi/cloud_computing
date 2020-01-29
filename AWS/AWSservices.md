@@ -1,5 +1,6 @@
 ## AWS Services
 
+See LinkedIn course [Learning AWS for developers](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers)
 ### DynamoDB
 
 - fast and flexible NoSQL database service
@@ -28,7 +29,10 @@ whether on occasions when they run a query they might not get the latest up-to-d
 - [AWS DynamoDB Tutorial](https://www.youtube.com/watch?v=2mVR_Qgx_RU)
 
 
-### Lambdas
+### Lambda
+- no servers to maintain - serverless
+- supports code C#, Java, Python, Node.js, Go 
+- could be triggered as result of events happening from many AWS services, like S3, DynamoDB, etc 
 
 ##### Useful links
 - [Lambda](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers/lambda)
